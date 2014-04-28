@@ -1,4 +1,4 @@
-CategoriesUIKit
+UIKitCategories
 ===============
 
 General-purpose categories of UIKit classes.
