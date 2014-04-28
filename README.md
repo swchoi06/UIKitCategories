@@ -13,4 +13,5 @@ To use certain categories, just copy .h/.m files to your project and included in
 2. UIImage+IMAGECategories
     +(UIImage *)image1x1WithColor:(UIColor *)color;
       -> Returns UIImage instance from UIColor
-      -> ex) [UIImage image1x1WithColor:[UIColor redcolor]];
+    +(UIImage *)imageWithUIView:(UIView *)view;
+      -> Returns UIImage instance from UIView(taking screenshot)
