@@ -10,5 +10,6 @@
 
 @interface UIImage(IMAGECategories)
 + (UIImage *)image1x1WithColor:(UIColor *)color;
++ (UIImage *)imageWithUIView:(UIView *)view;
 
 @end
