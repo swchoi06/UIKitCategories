@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface UIColor(COLORCategories)
 + (UIColor *)colorWithRGBHex:(UInt32)hex;

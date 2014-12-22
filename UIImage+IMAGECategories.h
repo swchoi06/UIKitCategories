@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface UIImage(IMAGECategories)
 + (UIImage *)image1x1WithColor:(UIColor *)color;
